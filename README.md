@@ -58,6 +58,18 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"></code>
 </p>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Achievements (counting more...)***
+<p align="left">
+
+🥈 2nd Position, Huawei ICT Competition 2024-25 – Regional Finals of MECA Region.
+
+🏆 Winner, Research Poster Competition - 4th ICoDT2 Conference.
+
+🥉 3rd Place, National Finals, Huawei ICT Competition 2023-24.
+
+🌍 MITACS Globalink Research Internship at Dalhousie University, Canada.
+
+
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
